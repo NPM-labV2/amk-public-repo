@@ -1,6 +1,6 @@
 {
   "name": "@npmv2-lab/amk-npmv2lab-cli-private",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test package",
   "main": "index.js",
   "scripts": {
