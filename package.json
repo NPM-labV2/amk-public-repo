@@ -1,0 +1,11 @@
+{
+  "name": "@npmv2-lab/amk-npmv2lab-cli-private",
+  "version": "1.0.1",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "author": "AmrutaKawade",
+  "license": "ISC"
+}
